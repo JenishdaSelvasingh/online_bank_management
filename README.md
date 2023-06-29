@@ -4,4 +4,4 @@ The main objective is to create a web-based only system. which will help to main
 # Modules <br>
 
 # Technologies <br>
-![Java-Logo](https://github.com/JenishdaSelvasingh/online_bank_management/assets/136103328/2ab2a238-2eef-4b93-8313-a91d58e405ed)
+![java-editorial-logo-free-download-free-vector](https://github.com/JenishdaSelvasingh/online_bank_management/assets/136103328/5e90036d-e78b-46cb-8aa6-4275f4d78b3d)
